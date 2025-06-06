@@ -1,0 +1,8 @@
+# Ignorar entorno virtual de Python
+venv/
+
+# Otros archivos y carpetas comunes a ignorar
+__pycache__/
+*.pyc
+allure-results/
+
